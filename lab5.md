@@ -112,15 +112,15 @@ disp(f);
 
 **(i)Causal Signal**
 
-<img src= "./causal.PNG">
+<img src= "./causal.png">
 
 **(ii)Anti-Causal Signal**
 
-<img src= "./non-causal.PNG">
+<img src= "./non-causal.png">
 
 **(iii)Non-Causal Signal**
 
-<img src= "./anti-causal.PNG">
+<img src= "./anti-causal.png">
 
 **Conclusion:**
 
