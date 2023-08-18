@@ -89,11 +89,11 @@ title('cross correlated signal');
 
 **(i)Auto-Correlation of a Signal**
 
-<img src= "./auto.PNG">
+<img src= "./auto.png">
 
 **(ii)Cross-correlation for Two Signals**
 
-<img src= "./cross.PNG">
+<img src= "./cross.png">
 
 
 
