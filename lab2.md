@@ -106,15 +106,15 @@ grid on;
 
 **(i)Circular convolution of two signals**
 
-<img src= "./circular.PNG">
+<img src= "./circular.png">
 
 **(ii)Plot of two signals & their summation & subtraction**
 
-<img src= "./sum.PNG">
+<img src= "./sum.png">
 
 **(iii)Draw the following signals**
 
-<img src= "./twosignal.PNG">
+<img src= "./twosignal.png">
 
 
 
