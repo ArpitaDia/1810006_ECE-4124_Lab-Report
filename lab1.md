@@ -64,11 +64,11 @@ stem(l,y)
 
 **(i)Using ‘conv’ function**
 
-<img src= "./convo.PNG">
+<img src= "./convo.png">
 
 **(ii)Without using ‘conv’ function**
 
-<img src= "./without.PNG">
+<img src= "./without_convo.png">
 
 
 
