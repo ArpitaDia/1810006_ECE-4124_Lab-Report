@@ -6,11 +6,11 @@
 
  Let us assume that a signal sent is sent from a transmitter, shown in Figure 1a. The signal arrives at the receiver after being delayed by an unknown interval of time, as shown in Figure 1b. Now, suppose that we need to find this delay, which is a result of being transmitted over the communication channel. This objective can be achieved by cross-correlating the signal sent with the signal received.
  
- ![Alt text](image.png) Figure 1: Signal (a) sent and (b) received on a communication channel
+ ![Alt text](1.png) Figure 1: Signal (a) sent and (b) received on a communication channel
  
   The result obtained is shown in Figure 2, which clearly exhibits a peak at time t = 10. This means that the received signal matches with the test signal the best when the test signal is shifted by 10 units along the time-axis. 
 
-  ![ ](image-1.png) 
+  ![ ](2.png) 
   
  Figure 2: Cross-correlation of the signals shown in Figure 1
 
