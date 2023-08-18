@@ -122,6 +122,10 @@ disp(f);
 
 <img src= "./anti-causal.png">
 
+**(iv)Inverse Z-transform**
+
+<img src= "./inverse.png">
+
 **Conclusion:**
 
 In this lab, we have shown how to plot ROC of causal signal, non-causal signal, anti-causal signal & inverse z-transform using MATLAB. We have also compared the MATLAB result to the analytical solution and found a very close match. This demonstrates the effectiveness of MATLAB for performing mathematical operations.
