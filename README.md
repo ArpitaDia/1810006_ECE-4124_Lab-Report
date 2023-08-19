@@ -1,13 +1,12 @@
-# 1810006_ECE-4124_Lab-Report
+# 1810006_ECE-4124_Lab-Reports
 
-**Course no:** ECE 4124
+## **Course no:** ECE 4124
 
-**Course title:** Digital Signal Processing Sessional
-
-
+## **Course title:** Digital Signal Processing Sessional
 
 
-**Submitted by:**
+
+### **Submitted by:**
 
 Name: Arpita Chowdhury Dia
 
@@ -17,7 +16,7 @@ Dept: Electrical & Computer Engineering (ECE)
 
 Session: 4th year, odd semester 
 
- **Submitted to:**
+### **Submitted to:**
 
 Hafsa Binte Kibria
 
@@ -28,9 +27,9 @@ Dept. of ECE, RUET
 
 
 
-**Content**
+### **Table of Contents:**
 
-|Exp. No   |   Name of the experiment|  Link|
+|Exp. No   | Name of the experiment|Link  |
 |:-----------------:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
 |01|Convolution of two signals (i) Using ‘conv’ function (ii) Without using ‘convo’ function|https://github.com/ArpitaDia/1810006_ECE-4124_Lab-Reports/blob/main/Lab%20Report%2001.md|
 |02|(i) Take two signals & show the circular convolution of the signals (ii) Plot the two signals & also plot the summation & subtraction of the two signals (iii) Draw the signals in one figure|https://github.com/ArpitaDia/1810006_ECE-4124_Lab-Reports/blob/main/Lab%20Report%2002.md|
