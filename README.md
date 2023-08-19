@@ -31,6 +31,9 @@ Dept. of ECE, RUET
 **Content**
 
 |Exp. No   |   Name of the experiment|  Link|
-|:-----------------:|:--------------------------------------------------------------------------------------------------------------------------:|-----------------------------------------:|
-|01|Convolution of two signals (i) Using ‘conv’ function (ii) Without using ‘convo’ function|
+|:-----------------:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------:|
+|01|Convolution of two signals (i) Using ‘conv’ function (ii) Without using ‘convo’ function|https://github.com/ArpitaDia/1810006_ECE-4124_Lab-Reports/blob/main/Lab%20Report%2001.md|
+|02|(i) Take two signals & show the circular convolution of the signals (ii) Plot the two signals & also plot the summation & subtraction of the two signals (iii) Draw the signals in one figure|
+|03|(i) Auto-Correlation of a Signal (ii) Cross-correlation for Two Signals|
+|04|Study of Identifying Signal Delays using Correlation| (i) Study of Causal Signal,(ii) Study of non-causal signal,(iii) Study of anti-causal signal,(iv) Study of inverse Z-transform|
 
